@@ -9,7 +9,5 @@ export function schedulesDay() {
 
     //Renderiza as horas disponíveis.
     hoursLoad({ date });
-
-
-    //Os horários disponíveis (horário futoro + não agendado) do lado esquerdo(form).
+    
 };
